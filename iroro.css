@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+body{
+    font-size: 16px;
+    font-family: sans-serif, "ヒラギノ角ゴシックProN", Meiryo,"MS Pゴシック", sans-serif;
+}
+    p{color:crimson;}
+
+h1{ color: #005500; 
+    font-size: 36px;
+    line-height: 2em;
+    text-align: justify;}
+    
+h1{ text-align: center;
+    background-color: beige;}
+
+div{
+    background-image: url(%E3%81%95%E3%81%8F%E3%82%89.jpg);
+    background-image: no-repeat;}
+p1{color: red;
+    font-size: 26px;
+    line-height: 2em
+}
+
+p2{color:blue;
+    font-size: 26px;
+    line-height: 2em
+}
+p3{color:yellow;
+    font-size: 26px;
+    line-height: 2em
+}
+
+p4{color:green;
+    font-size: 26px;
+    line-height: 2em
+}
+
+p5{color: #ef857d;}
+p6{color: #ffedab;}
+p7{color: #00947a;}
+p8{color: #8d93c8;}
+p9{color: #e3acae;}
+p10{color: #0073a8;}
+p11{color: #d9aacd;}
+p12{color: #e6bfab;}
+p13{color: #ee827c;}
+p14{color: #bc64a4;}
+p15{color: #a6a5c4;}
+p16{color: #cd5e3c;}
+p17{color: #a59564;}
+p18{color: #c97586;}
+p19{color: #89c3eb;}
+p20{color: #f8b862;}
+p21{color: #e5e4e6;}
